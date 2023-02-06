@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Baptiste, graduated as an Electrical ⚡ & Software Engineer 💻 in France 🇫🇷 few years ago. I started web & mobile development by myself many years ago to become a full stack developer and I have specialized for almost 3 years in Flutter app development 📱.
-This framework is AMAZING, 🤩 developer friendly, allowing us to produce awesome crossplatform apps.
+I'm Baptiste, I graduated as an Electrical ⚡ & Software Engineer 💻 in France 🇫🇷 a few years ago. I started web & mobile development by myself many years ago to become a full stack developer and I have spent the past 3 years specializing in Flutter development 📱.
+This framework is AMAZING 🤩 and developer friendly, allowing us to produce awesome cross-platform apps.
 
 For an overview: https://flutter.dev/
 
