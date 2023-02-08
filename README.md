@@ -8,7 +8,9 @@ For an overview: https://flutter.dev/
 I have been working as a freelance developer for 2 years, and I invite you to check out my portfolio right here:
 👉 https://baptistesx.github.io/port-folio/ 👈
 
-🚀🚀 I'm currently open for new opportunities 👐 as a freelance or as an employee at a company in Barcelona, Spain 🇪🇸.
+🚀 I'm currently open for 🚀
+- a full time position as Sr Mobile Developer in Barcelona 🇪🇸
+- full time or part time missions as freelance
 
 Don't hesitate to reach me ✉️: seuxbaptiste@gmail.com
 
