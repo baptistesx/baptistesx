@@ -5,7 +5,7 @@ This framework is AMAZING 🤩 and developer friendly, allowing us to produce aw
 
 For an overview: https://flutter.dev/
 
-I have been working as a freelance developer for 2 years, and I invite you to check out my portfolio right here:
+I have been working as a freelance developer for 4 years, and I invite you to check out my portfolio right here:
 👉 https://baptistesx.github.io/port-folio/ 👈
 
 🚀 I'm currently open for 🚀
