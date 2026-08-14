@@ -1,17 +1,56 @@
-### Hi there 👋
+# Baptiste Seux
 
-I'm Baptiste, I graduated as an Electrical ⚡ & Software Engineer 💻 in France 🇫🇷 a few years ago. I started web & mobile development by myself many years ago to become a full stack developer and I have spent the past 4 years specializing in Flutter development 📱.
-This framework is AMAZING 🤩 and developer friendly, allowing us to produce awesome cross-platform apps.
+**Freelance Flutter developer & CTO — Valence, France.**
 
-For an overview: https://flutter.dev/
+I build products that reach production: iOS and Android from a single Flutter codebase,
+web apps and back offices in Flutter or Next.js, with the backend, the infrastructure and
+the store releases included. Six years freelance, thirty-six missions, and one product of
+my own.
 
-I have been working as a freelance developer for 4 years, and I invite you to check out my portfolio right here:
-👉 https://baptistesx.github.io/port-folio/ 👈
+## What I do
 
-🚀 I'm currently open for 🚀
-- a full time position as Sr Mobile Developer in Barcelona 🇪🇸
-- full time or part time missions as freelance
+- **Ship MVPs.** Product framing, architecture, iOS and Android, backend, App Store and
+  Play Store — one person, from the first workshop to the first install.
+- **Rescue existing apps.** An honest read on an inherited codebase: what holds up, what has
+  to be rewritten, what it costs. Then the rewrite, if you want it.
+- **Reinforce teams.** Lead or senior Flutter / full-stack developer inside your squad:
+  architecture, code review, levelling up the developers already in place.
 
-Don't hesitate to reach me ✉️: seuxbaptiste@gmail.com
+## Currently
 
-Baptiste
+Co-founder and CTO of **[LEXARO](https://lexaro.fr)**, a SaaS that digitises hearing stand-ins
+between lawyers, with Me Huron, a lawyer at the Grenoble bar — Flutter app for iOS, Android
+and web, Supabase / PostgreSQL backend with Row Level Security, Stripe Connect payments,
+Next.js back office, self-hosted on a VPS with Prometheus / Grafana / Loki and GitHub Actions.
+
+## Stack
+
+`Flutter` · `Dart` · `React Native` — mobile, iOS & Android
+
+`Next.js` · `React` · `TypeScript` — web apps & back offices
+
+`Supabase` · `PostgreSQL` · `REST` · `GraphQL` — backend
+
+`Docker` · `CI/CD` · `self-hosting` · `monitoring` — infrastructure & shipping
+
+## Selected work
+
+| Product | Role | Year |
+| --- | --- | --- |
+| [LEXARO](https://lexaro.fr) — legal SaaS | Co-founder & CTO | 2024 — today |
+| [Meowtel](https://meowtel.com) — US cat-sitting marketplace, acquired by Rover in 2026 | Mobile tech lead | 2022 – 2023 |
+| Edenred — EV fuel card | Flutter & full-stack developer | 2023 – 2024 |
+| [May](https://www.may.app) — parenting app, 4.9/5 on the stores | React Native developer | 2023 – 2024 |
+| Capgemini, Studio 147 — equipment tracking | Web & mobile tech lead | 2021 – 2023 |
+| Yakadir — health app rewritten at 90% | Flutter & full-stack engineer | 2023 |
+
+## Availability
+
+Open to full-time freelance work, 100% remote with occasional on-site days, €650 per day.
+Every review on my Malt profile is five stars; I reply within an hour on average.
+
+## Elsewhere
+
+- Portfolio — <https://baptistesx.github.io/port-folio/>
+- Malt — <https://www.malt.fr/profile/baptisteseux>
+- LinkedIn — <https://www.linkedin.com/in/baptiste-seux-11b793132/>
